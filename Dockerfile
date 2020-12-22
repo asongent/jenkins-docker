@@ -1,5 +1,5 @@
 # use a node base image
-FROM ubuntu:20.04
+FROM node:7-onbuild
 
 # set maintainer
 LABEL maintainer "asongentle@gmail.com"
