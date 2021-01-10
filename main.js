@@ -11,3 +11,5 @@ var server = http.createServer(function (request, response) {
 server.listen(8000);
 console.log("Server listening on port 8000 :  http://127.0.0.1:8000/");
 
+#When you are done with this, test the container address on the browser to see if it's running
+
