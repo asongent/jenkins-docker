@@ -1,4 +1,4 @@
-# JENKINS DOCKER INTEGRATION, A WONDERFUL THING TO LEARN 
+                 # JENKINS-DOCKER INTEGRATION, A WONDERFUL THING TO LEARN 
 ---
 The purpose of this tutorial is learn how to integrate git jenkins and docker. 
 I will continue my studies on how to integrate most DevOps tools together.
@@ -6,7 +6,5 @@ Many thanks to Developer communties and the wonderful resources you put out ther
 
 ---
                                  [Thanks for Taking This Tutorial]
-
-                                              [ Gentle ]
-
-                                         [Jr. DevOps Engineer]
+                                              Gentle 
+                                         Jr. DevOps Engineer
