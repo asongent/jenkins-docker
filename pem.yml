@@ -1,0 +1,8 @@
+---
+  name: play
+  host: all
+  remote_user: ansible
+  become: yes
+     task: 
+       yum: install ansible
+      
