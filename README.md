@@ -6,5 +6,5 @@ Many thanks to Developer communties and the wonderful resources you put out ther
 
 ---
                                  Thanks for Taking This Tutorial
-                                              Gentle 
-                                         Jr. DevOps Engineer
+                                           Gentle 
+                                       Jr. DevOps Engineer
